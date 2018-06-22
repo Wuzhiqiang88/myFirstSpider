@@ -1,0 +1,3 @@
+# myFirstSpider
+我的第一个python爬虫程序（主要爬取的是一个疾病知识库）。
+使用的是Python3和BeautifulSoup，并把数据放入mysql数据库
